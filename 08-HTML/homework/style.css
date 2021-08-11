@@ -1,0 +1,23 @@
+body{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUFnlcT4YiSpfUaGz70auBsXcUTyKzQFnuQ&usqp=CAU'); 
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+  	align-content: center;
+  }
+h1 {color:red;}
+span {font-size: 18px; margin: 50px; padding: 50px;}
+img {width:400px;}
+#thirdDiv {
+	height: 600px; 
+	width: 500px; 
+	background-color: steelblue;
+	padding: 50px; 
+	border-style: solid; 
+	border-color: coral;	
+}
+div{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
